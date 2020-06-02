@@ -1,0 +1,4 @@
+SVGDATA_MICROSOFTEDGEICON.txt
+
+256x256 - 2020 logo
+512x546 - Old/First logo
