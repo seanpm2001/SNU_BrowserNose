@@ -1,0 +1,24 @@
+
+---
+
+===
+Installing SNU_BrowserNose
+===
+
+SNU BrowserNose is a software library that is part of the SNU Framework. It is written in HTML and JavaScript.
+
+To install, simply place the source directory under the path: ///SNU/BrowserNose/ in your SNU web directory. The project isn't fully functional yet, however.
+
+If you want to view the image files, the majority of files are in PNG format. Make sure your computer can handle images of 1920x200000/2560x1440/2560x1080/1920x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, GIF, and JPG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+===
+Install instructions file version: 1 (Sunday, 2022 March 6th at 4:07 pm)
+===
+
+---
