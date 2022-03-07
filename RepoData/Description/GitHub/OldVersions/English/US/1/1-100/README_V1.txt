@@ -1,0 +1,1 @@
+SNU BrowserNose is a browser sniffing library that aims to achieve compatibility on all web browsers through replacement of features. It is designed to work on all browsers, all the way down to WWW/Nexus 0.1.
